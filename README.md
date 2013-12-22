@@ -1,7 +1,7 @@
 # TinyCircuits TinyShield USB & ICP Board
-# ASD2101 Rev3
+# ASD2101 Rev4
 
-These are the design files for the TinyCircuits ASD2101 Rev 3 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm, or Circular 20mm diameter) that has a FTDI USB converter and 6-pin header to connect for In-Circuit programming (ICP).
+These are the design files for the TinyCircuits ASD2101 Rev 4 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm, or Circular 20mm diameter) that has a FTDI USB converter and 6-pin header to connect for In-Circuit programming (ICP).
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
