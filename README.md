@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield USB & ICP Board
 # ASD2101 Rev6
 
-These are the design files for the TinyCircuits ASD2101 Rev 6 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm) that has a FTDI USB converter.
+The design files are located under design-files/ for the TinyCircuits ASD2101 Rev 6 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm) that has a FTDI USB converter.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-usb-and-icp.html
+For more infomation on this, check out the product page at TinyCircuits.com:  https://tinycircuits.com/collections/communication/products/usb-tinyshield
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
